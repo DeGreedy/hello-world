@@ -1,2 +1,2 @@
 # hello-world
-just the first one to hang out around
+just the first one while hanging around
